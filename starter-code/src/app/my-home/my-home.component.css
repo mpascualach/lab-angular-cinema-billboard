@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+justify-content: space-around
+}
+
+.film img {
+  height: 400px;
+  width: 300px;
+}
+
+.film{
+  display: inline-block;
+  list-style: none;
+  margin: 0 auto;
+  margin: 5px;
+  text-align: center
+}
